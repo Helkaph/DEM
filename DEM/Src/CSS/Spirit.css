@@ -60,8 +60,11 @@ body {
     height: 90vh;
 }
 .box-sprimg img {
+    margin-left: 20px;
     height: 93vh;
     width: 100%;
+    border-radius: 30px;
+    border: 5px solid #BC750B;
 }
 .box-placecontent {
     grid-area: C;
